@@ -1,2 +1,2 @@
 print "Pulled from github"
-local Version = "1.0"
+"1.0"
